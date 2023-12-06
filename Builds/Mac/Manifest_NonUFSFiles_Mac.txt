@@ -1,0 +1,12 @@
+GalleryGame/Binaries/Mac/GalleryGame	2023-12-06T04:26:18.610Z
+GalleryGame/Binaries/Mac/GalleryGame.app/Contents/Info.plist	2023-12-06T04:26:36.786Z
+GalleryGame/Binaries/Mac/GalleryGame.app/Contents/MacOS/GalleryGame	2023-12-06T04:26:37.368Z
+GalleryGame/Binaries/Mac/GalleryGame.app/Contents/PkgInfo	2023-12-06T04:26:36.786Z
+GalleryGame/Binaries/Mac/GalleryGame.app/Contents/_CodeSignature/CodeResources	2023-12-06T04:26:37.072Z
+GalleryGame/Content/gallerygame_sf_metal_sm5-metal_sm5.0.metallib	2023-12-06T04:32:21.111Z
+GalleryGame/Content/global_sf_metal_sm5-metal_sm5.0.metallib	2023-12-06T04:29:48.732Z
+Engine/Binaries/ThirdParty/Intel/TBB/Mac/libtbb.dylib	2023-12-02T08:42:56.350Z
+Engine/Binaries/ThirdParty/Intel/TBB/Mac/libtbbmalloc.dylib	2023-12-02T08:42:56.351Z
+Engine/Binaries/ThirdParty/Ogg/Mac/libogg.dylib	2023-12-02T08:42:59.442Z
+Engine/Binaries/ThirdParty/Vorbis/Mac/libvorbis.dylib	2023-12-02T08:43:05.702Z
+UECommandLine.txt	8A3CFE0970E0069587DA7C8E0CD43CA1

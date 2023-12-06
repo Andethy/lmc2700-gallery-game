@@ -1,0 +1,1 @@
+-project="../../../GalleryGame/GalleryGame.uproject" /Game/FirstPerson/Maps/FirstPersonMap -Messaging
