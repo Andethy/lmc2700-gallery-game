@@ -5,8 +5,8 @@
 
 #include "Components/CapsuleComponent.h"
 
-AMyPlayerStart::AMyPlayerStart(const FObjectInitializer& ObjectInitializer)
-	: Super(ObjectInitializer)
-{
-	GetCapsuleComponent()->SetMobility(EComponentMobility::Stationary);
-}
+// AMyPlayerStart::AMyPlayerStart(const FObjectInitializer& ObjectInitializer)
+// 	: Super(ObjectInitializer)
+// {
+// 	GetCapsuleComponent()->SetMobility(EComponentMobility::Stationary);
+// }

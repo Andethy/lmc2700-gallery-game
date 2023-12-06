@@ -13,6 +13,6 @@ UCLASS()
 class GALLERYGAME_API AMyPlayerStart : public APlayerStart
 {
 	GENERATED_BODY()
-	ENGINE_API AMyPlayerStart(const FObjectInitializer& ObjectInitializer);
+	//ENGINE_API AMyPlayerStart(const FObjectInitializer& ObjectInitializer);
 	
 };
